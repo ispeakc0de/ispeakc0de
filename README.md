@@ -8,4 +8,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ispeakc0de/)](https://www.linkedin.com/in/ispeakc0de/) [![Twitter Badge](https://img.shields.io/badge/-shubham-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ispeakc0de/)](https://twitter.com/ispeakc0de/)
 
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ispeakc0de&show_icons=true&hide=[%22issues%22])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ispeakc0de)
+
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ispeakc0de&show_icons=true&count_private=true&include_all_commits=true)
