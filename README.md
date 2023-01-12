@@ -7,3 +7,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ispeakc0de&theme=tokyonight&exclude_repo=Automatated-Project)
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ispeakc0de&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ispeakc0de&theme=dark)](https://git.io/streak-stats)
