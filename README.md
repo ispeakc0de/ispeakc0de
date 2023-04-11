@@ -8,7 +8,7 @@
  <img src="http://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
  <a href="https://dev.to/ispeakc0de">
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg"/>
+ <img src="https://img.shields.io/badge/-DEV-000000?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  </a>
  <a href="https://www.hackerrank.com/shubh_chaudhary"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
  <a href="https://www.codechef.com/users/chocoshubh"><img src="https://img.shields.io/badge/-Codechef-964B00?style=for-the-badge&logo=CodeChef&logoColor=white%22"/> </a>
