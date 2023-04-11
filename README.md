@@ -17,6 +17,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ispeakc0de&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22ispeakc0de" /> </p>
 
 I'm a software developer with a strong focus on backend development, I possess three years of experience in constructing production-grade microservices utilizing Golang. My services integrate with various databases, message queues, and systems, providing me with valuable experience in technologies such as Postgres, RabbitMQ, Redis, MongoDB, and MySQL. In addition, I have hands-on experience with Kubernetes, Docker, and CI/CD for deployment, apart from my backend expertise.
+I'm also an active member of the open-source community, maintaining the LitmusChaos project and contributing to Keptn, Iter8, and OpenEBS projects
 
 Here are some of the key languages, frameworks, and tools I've worked with:
 - Languages: Golang, C++, C, Java, Python, Rust, Ansible, Bash, Groovy, Cypress
