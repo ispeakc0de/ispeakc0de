@@ -54,4 +54,4 @@ In my spare time, I enjoy competitive coding and have qualified as an ACM-ICPC R
 
 <br />
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ispeakc0de&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ispeakc0de&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=vue)
