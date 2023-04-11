@@ -52,8 +52,6 @@ In my spare time, I enjoy competitive coding and have qualified as an ACM-ICPC R
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"></code>
 <code><img height="20" src="https://www.veritis.com/wp-content/uploads/2019/08/Prometheus.png"></code>
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ispeakc0de&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
+<br />
 
-[twitter]: https://twitter.com/ispeakc0de
-[linkedin]: https://www.linkedin.com/in/ispeakc0de/
-[blogs]: https://dev.to/ispeakc0de
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ispeakc0de&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
